@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Generics-Collections.iml" filepath="$PROJECT_DIR$/.idea/Generics-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method References/Method References.iml" filepath="$PROJECT_DIR$/Method References/Method References.iml" />
+    </modules>
+  </component>
+</project>
